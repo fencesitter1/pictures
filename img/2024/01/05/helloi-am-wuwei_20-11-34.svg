@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="canvas" viewBox="219.845 302.856 1010.601 134.659">
-  <style>
+    <style>
     path {
       stroke-dasharray: 2000;
       stroke-dashoffset: 2000;
-      -webkit-animation: dash 5s ease infinite;
-      animation: dash 5s ease infinite;
+      -webkit-animation: dash 5s ease 1 forwards;
+      animation: dash 5s ease 1 forwards;
     }
     
     @-webkit-keyframes dash {
